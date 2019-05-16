@@ -6,7 +6,9 @@ def create_an_array
   names = ["Bogo","Alex","Rada","Diana"]
 end
 
+names = ["Bogo","Alex","Rada","Diana"]
 def add_element_to_end_of_array(array, element)
+   
    names.push("Alienata")
 end
 
